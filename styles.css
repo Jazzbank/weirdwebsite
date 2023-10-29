@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap');
+
+body {
+    background-color: rgb(14, 13, 13);
+}
+
+h1, h2, p {
+    margin: auto;
+    text-align: center;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    color: white;
+}
+
+p {
+    font-size: 14px;
+}
+
+h1, h2 {
+    font-weight: 700;
+}
+
+a {
+    color: rgb(28, 105, 168);
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+}
